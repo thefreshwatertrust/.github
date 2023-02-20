@@ -29,3 +29,7 @@ The Freshwater Trust uses publicly available, peer-reviewed models to quantify t
 - USGS
 - CIMIS
 - OpenET
+
+----
+
+Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
