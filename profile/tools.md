@@ -14,10 +14,9 @@ Our staff routinely employs GIS to perform accurate earth measurements, conduct 
 
 The Freshwater Trust uses publicly available, peer-reviewed models to quantify the benefits of conservation actions:
 
-- Heat Source: simulates stream thermodynamics and hydrology
 - Stream Function Assessment Methodology: rapidly assesses, evaluates, and scores stream and streamside function
 - Instream Flow Crediting Protocol: rigorous and replicable process to generate credits from cooperative projects that aim to keep more water instream
-- Shade-a-lator Model: predicts a reduction in water temperature from shade created by planting streamside vegetation
+- Shade-a-lator: predicts a reduction in water temperature from shade created by planting streamside vegetation using Heat Source model and TTools
 - Water Temperature Transaction Tool: calculates the water temperature benefits from leaving additional water instream
 - Nutrient Tracking Tool (NTT): models the reduction in nitrogen, phosphorus and sediment runoff from implementing on-farm conservation actions, like cover cropping or irrigation upgrades
 - USGS MODFLOW: accurately, reliably, and efficiently simulate groundwater flow
