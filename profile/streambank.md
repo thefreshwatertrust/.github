@@ -11,4 +11,4 @@ The Freshwater Trust uses StreamBank extensively with program partners.
 
 ----
 
-Visit [our profile](readme.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
