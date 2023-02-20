@@ -15,4 +15,4 @@ Currently, BasinScout is applied by The Freshwater Trust in partnership with sta
 
 ----
 
-Visit [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
