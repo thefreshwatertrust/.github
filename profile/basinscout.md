@@ -1,4 +1,4 @@
-# BasinScout:tm:
+# BasinScout:registered:
 
 BasinScout is an integrative modeling framework for structured decision making. It provides information to quantitively evaluate watershed management alternatives that employ natural infrastructure, best management practices, and other "distributed" projects. BasinScout is used to identify the most cost-effective suite of site-level land and water management actions that can be implemented to achieve specific water resource objectives. Based on constraints specified by stakeholders, the tradeoffs among potential strategies can be evaluated using a variety of water quality, water quantity, habitat, and economic metrics.  
 
