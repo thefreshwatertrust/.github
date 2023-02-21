@@ -1,4 +1,4 @@
-# BasinScout:registered:
+# BasinScout
 
 BasinScout is an integrative modeling framework for structured decision making. It provides information to quantitively evaluate watershed management alternatives that employ natural infrastructure, best management practices, and other "distributed" projects. BasinScout is used to identify the most cost-effective suite of site-level land and water management actions that can be implemented to achieve specific water resource objectives. Based on constraints specified by stakeholders, the tradeoffs among potential strategies can be evaluated using a variety of water quality, water quantity, habitat, and economic metrics.  
 
@@ -15,4 +15,4 @@ Currently, BasinScout is applied by The Freshwater Trust in partnership with sta
 
 ----
 
-Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md)
