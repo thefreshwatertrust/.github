@@ -12,5 +12,5 @@ With more than 40 years of on-the-ground experience, The Freshwater Trust is the
 
 ----
 
-Visit [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+:copyright: [The Freshwater Trust](https://thefreshwatertrust.org)
 
