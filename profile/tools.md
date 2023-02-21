@@ -31,4 +31,4 @@ The Freshwater Trust uses publicly available, peer-reviewed models to quantify t
 
 ----
 
-Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md)
