@@ -2,7 +2,7 @@
 
 ## GIS
 
-GIS is the foundation of our work at The Freshwater Trust.  GIS helps manage, analyze and model geospatial and related data so that we can make smarter decisions to better conserve resources and protect biodiversity. The Freshwater Trust uses GIS to answer a wide range of questions regarding spatial relationships at our project sites – from planning and design to implementation, data analysis, cartography and reporting. 
+GIS is the foundation of our work at The Freshwater Trust.  GIS helps manage, analyze and model geospatial and related data so that we can make smarter decisions to better conserve resources and protect biodiversity. The Freshwater Trust uses GIS to answer a wide range of questions regarding spatial relationships at our project sites – from planning and design to implementation, data analysis, cartography and reporting. Our GIS tools include:
 
 - Esri ArcGIS
 - QGIS
