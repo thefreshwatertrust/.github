@@ -1,4 +1,4 @@
-# StreamBank:registered:
+# StreamBank
 
 StreamBank is a toolkit designed to measure and monitor quantified conservation metrics.  Research, innovation and technology are the driving forces behind ensuring the actions we take deliver quantifiable positive outcomes for a river, watershed, or basin. We analyze data, model outcomes, and develop rigorous systems and protocols to quantify the environmental benefits of every restoration action.
 
@@ -11,4 +11,4 @@ The Freshwater Trust uses StreamBank extensively with program partners.
 
 ----
 
-Visit [our profile](README.md) and [thefreshwatertrust.org](https://thefreshwatertrust.org) to learn more!
+:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md)
