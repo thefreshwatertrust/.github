@@ -1,3 +1,5 @@
+![The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/images/tft-logo-stacked.png) 
+
 # Colleagues and Collaborators
 
 For new staff, partners, and others interested in collaborating:
