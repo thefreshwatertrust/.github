@@ -12,7 +12,7 @@ We practice [quantified conservation](https://www.thefreshwatertrust.org/about-u
 
 With more than 40 years of on-the-ground experience, The Freshwater Trust is the largest restoration-focused organization in the Pacific Northwest and the second largest conservation group based in Oregon.  We are a 501(c)(3) organization.
 
-If you're interested in collaborating, please [connect with our team](welcome.md).
+If you're interested in collaborating, please [connect with our team](https://github.com/thefreshwatertrust/.github/blob/main/profile/welcome.md).
 
 ----
 
