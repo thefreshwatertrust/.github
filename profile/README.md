@@ -2,7 +2,7 @@
 
 # Science & Analytics Team
 
-The Freshwater Trust protects and restores freshwater ecosystems using science, technology and incentive-based solutions. By practicing [quantified conservation](https://www.thefreshwatertrust.org/about-us/) we’re making positive impacts on a timeline and scale that truly matters.  We work together with committed stakeholders to continuously develop the following products and services: 
+[The Freshwater Trust](https://thefreshwatertrust.org) protects and restores freshwater ecosystems using science, technology and incentive-based solutions. We practice [quantified conservation](https://www.thefreshwatertrust.org/about-us/) to make positive impacts on a timeline and scale that truly matters.  We work together with committed stakeholders to continuously develop the following products and services: 
 
 - [BasinScout:registered:](https://github.com/thefreshwatertrust/.github/blob/main/profile/basinscout.md)
 - [StreamBank:registered:](https://github.com/thefreshwatertrust/.github/blob/main/profile/streambank.md)
@@ -14,5 +14,4 @@ With more than 40 years of on-the-ground experience, The Freshwater Trust is the
 
 ----
 
-:copyright: [The Freshwater Trust](https://thefreshwatertrust.org)
-
+:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md)
