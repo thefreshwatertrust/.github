@@ -10,4 +10,4 @@ For new staff, partners, and others interested in collaborating:
 
 ----
 
-:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md)
+:copyright: [The Freshwater Trust](https://github.com/thefreshwatertrust/.github/blob/main/profile/collaborate.md)
