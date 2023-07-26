@@ -1,2 +1,2 @@
 # .github
-[Public profile](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md) for the Science &amp; Analytics Team at The Freshwater Trust
+Public-facing [profile page](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md) for the Science &amp; Analytics Team at The Freshwater Trust
