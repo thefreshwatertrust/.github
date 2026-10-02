@@ -1,6 +1,6 @@
 <h3 align="center">
   <img
-    src="./images/tft-logo-stacked.png"
+    src="images/tft-logo-stacked.png"
     height="200">
 </h3>
 
