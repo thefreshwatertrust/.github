@@ -1,6 +1,6 @@
 <h3 align="center">
   <img
-    src="https://github.com/thefreshwatertrust/.github/main/blob/images/tft-logo-stacked.png"
+    src="https://github.com/thefreshwatertrust/.github/blob/main/images/tft-logo-stacked.png"
     height="200">
 </h3>
 
