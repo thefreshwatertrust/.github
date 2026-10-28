@@ -5,7 +5,7 @@
 </h3>
 
 # Welcome!
-Thanks for visiting the [The Freshwater Trust](https://github.com/thefreshwatertrust/).
+Thanks for visiting the Science & Analytics Team at [The Freshwater Trust](https://github.com/thefreshwatertrust/).
 
 Read our [profile](https://github.com/thefreshwatertrust/.github/blob/main/profile/README.md) to learn more about who we are and what we do.
 
